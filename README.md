@@ -1,5 +1,7 @@
 ### Player Recommender App with Spark
 
+[![Join the chat at https://gitter.im/briefscala/player-recommender](https://badges.gitter.im/briefscala/player-recommender.svg)](https://gitter.im/briefscala/player-recommender?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### Start Spark locally
 
 ```
